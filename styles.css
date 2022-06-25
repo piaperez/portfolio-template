@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');
 
 :root {
-  --primary-color: #3282B8;
-  --primary-color-dark: #0F4C75;
-  --accent-color: #FFF8F0;
+  --primary-color: #8f63d5;
+  --primary-color-dark: #670f75;
+  --accent-color: #e4c4fe;
 }
 
 html {
@@ -87,7 +87,7 @@ body {
 }
 
 .avatar-container img {
-  height: 700px;
+  height: 1100px;
   width: auto;
 }
 
