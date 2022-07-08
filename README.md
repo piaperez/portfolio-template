@@ -1,28 +1,9 @@
-# Trayecto de Formación: FullStack Web Developer :rocket:
-
-:package: **Módulo 1: Entorno de trabajo y control de versiones**
-
-## Introducción
-Hola! :smile: Éste es el primer proyecto con el que daremos nuestros primeros pasos en el desarrollo de software. Nuestro camino iniciará con Visual Studio Code, Git y Github, a lo largo de este módulo nos familiarizaremos con este entorno de trabajo. Recuerda que pronto armaremos equipos de desarrollo así que te recomendamos que te vayas preparando. Tú y tu equipo experimentarán situaciones donde deberán coordinarse y cooperar para tener éxito, esto te dará un pequeño vistazo de lo que hay allí afuera.
-
-Sin más que decir, te deseamos éxitos en este camino de formación! :clap:
-
-## Instalación
-
-Para iniciar con este proyecto debes tener lo siguiente:
-
-- Visual Studio Code Instalado
-- Git Instalado
-- No necesitas cuenta de GitHub pero la necesitarás mas adelante. Te recomiendo que te vayas registrando.
-
-## Iniciar el proyecto
-
-Una recomendación nuestra es que uses la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para VS Code. Esta extensión te permite iniciar un servidor en tiempo real y ver los cambios que se hagan en el código.
-
-## Manejo de problemas
-
-Si tienes alguna duda o problema que no se puede resolver en el proyecto te animamos a que lo consultes con los instructores. El problema que enfrentas puede sucederle a otro compañero.
-
-## Recursos
-
-Si te interesa saber más del avatar utilizado en este proyecto, puede ver [Open Peeps](https://www.openpeeps.com) donde podrás personalizar y descargar tu propio avatar con el mismo estilo y gratis.
+- 👋 Hola soy Pia Perez
+- 👀 Me interesa aprender constante y progesivamente, me gusta estar actualizada con respecto a los contenidos necesarios para trabajar de manera práctica.
+- 🌱 Actualmente estoy aprendiendo una carrera propuesta por Digital House,  Mercado libre y Globant, "Certified Tech Developer" es una carrera que propone formar desarrolladores siguiendo los más altos estándares de la industria.
+- 💞️ Busco colaborar en proyectos de alto rango y dificultad, además de poder colaborar con un equipo amplio del cual puedo aprender.
+- 📫 Como contactarme: <br>
+GIT HUB: https://github.com/piaperez <br>
+LINKEDIN: https://www.linkedin.com/in/maria-pia-perez-753114236/<br>
+TWITER: https://twitter.com/Piap69<br>
+FACEBOOK: https://www.facebook.com/piaperez69
