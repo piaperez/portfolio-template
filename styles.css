@@ -74,7 +74,7 @@ body {
 }
 
 .half-section {
-  width: 50%;
+  width: 35%;
 }
 
 .avatar-container {
@@ -193,6 +193,34 @@ form {
 .btn-send-message:focus {
   background-color: var(--primary-color-dark);
   color: var(--accent-color);
+}
+.contenedor-padre-1{
+  display: flex;
+   justify-content: space-around; 
+  margin-top: 70px;
+  padding: 20px;
+}
+.contenedor-padre-2{
+  display: flex; 
+  justify-content: space-around;
+  margin-top: 20px;
+  padding: 20px;
+}
+.contenedor-padre-3{
+  display: flex;
+  justify-content:space-around;
+  margin-top: 20px;
+  margin-bottom: 60px;
+  padding: 20px;
+}
+.tecnologias{
+   float: right; 
+   margin-right: 100px; 
+  margin-top: -250px;
+  color: var(--primary-color-dark);
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 40px;
 }
 
 footer {
