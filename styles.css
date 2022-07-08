@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@200&display=swap');
 :root {
-  --primary-color: #3282B8;
-  --primary-color-dark: #0F4C75;
-  --accent-color: #FFF8F0;
+  --primary-color: #8f63d5;
+  --primary-color-dark: #670f75;
+  --accent-color: #e4c4fe;
 }
 
 html {
@@ -13,7 +13,8 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-family: 'Courgette', cursive;
 }
 
 .navbar {
@@ -44,10 +45,10 @@ body {
 }
 
 .menu-item a {
-  padding: 20px;
+  padding: 60px;
   text-decoration: none;
   color: var(--accent-color);
-  font-size: 18px;
+  font-size: 35px;
   letter-spacing: 2px;
   transition: all 1s;
 }
@@ -58,7 +59,7 @@ body {
   float: left;
   margin: 16px 36px;
   color: var(--accent-color);
-  font-size: 24px;
+  font-size: 35px;
   font-weight: bold;
 }
 
@@ -87,7 +88,7 @@ body {
 }
 
 .avatar-container img {
-  height: 700px;
+  height: 1100px;
   width: auto;
 }
 
@@ -97,17 +98,16 @@ body {
 
 h1 {
   margin: 100px 0 0 0;
-  font-size: 60px;
+  font-size: 100px;
   font-weight: 800;
   color: var(--accent-color);
-  text-transform: uppercase;
 }
 
 .socials {
   list-style: none;
   display: flex;
   flex-direction: row;
-  padding: 0;
+  padding: 10;
 }
 
 .socials-icon {
@@ -131,9 +131,8 @@ h1 {
   align-items: center;
   background-color: var(--accent-color);
   color: var(--primary-color-dark);
-  text-transform: uppercase;
   font-weight: 800;
-  font-size: 40px;
+  font-size: 55px;
 }
 
 .project-list {
@@ -180,7 +179,7 @@ form {
 .btn-send-message {
   margin-top: 10px;
   padding: 10px;
-  font-size: 20px;
+  font-size: 30px;
   background-color: var(--accent-color);
   border-radius: 4px;
   border-style: none;
@@ -229,7 +228,7 @@ footer {
   justify-content: flex-end;
   background-color: var(--primary-color-dark);
   color: var(--accent-color);
-  padding: 20px;
+  padding: 10px;
 }
 
 .footer-section-container {
